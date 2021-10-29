@@ -1,6 +1,6 @@
 # dojo-blog
 
-Project using the Vue Composition API using get of a json file. First, you need to install the json server and follow the steps below.
+Vue Composition API project using get of a json file. First, you need to install the json server and follow the steps below.
 
 
 ## Project setup
